@@ -3,6 +3,7 @@
     "version": ">= 16.19.2",
     "appVersionSource": "remote"
   },
+  "build": {
     "preview": {
       "distribution": "internal"
     },
